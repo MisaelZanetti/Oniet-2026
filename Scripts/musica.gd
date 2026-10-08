@@ -1,6 +1,6 @@
 extends Node
 
-@onready var player = $Musica
+@onready var player = $musix
 
 func _ready() -> void:
 	process_mode = Node.PROCESS_MODE_ALWAYS
